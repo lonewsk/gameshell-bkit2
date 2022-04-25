@@ -27,7 +27,9 @@ I used the "Flexing battery holder" from enif on Thingiverse [(link here)](https
 
 In this repo, you'll find the 3D .STL file to print your own custom back plate.
 
-*Please note that it is still a draft. I plan to close the back plate soon.*
+~~Please note that it is still a draft. I plan to close the back plate soon.~~
+
+*My Gameshell's motherboard died a few months ago... I will not push this project further.*
 
 
 
